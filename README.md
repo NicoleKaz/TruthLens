@@ -93,3 +93,7 @@ Hadassah Academic College
 ## GitHub
 
 https://github.com/NicoleKaz/TruthLens
+
+## Video Link
+
+https://drive.google.com/file/d/1bx15Zl9gsJAJMmNoi1Lk7iHZNkKRR3Qv/view?usp=sharing
