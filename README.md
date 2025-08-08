@@ -24,7 +24,7 @@ This project was developed as a final assignment for the course "From Theory to 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/hodayazait/TruthLens.git
+git clone https://github.com/NicoleKaz/TruthLens.git
 cd TruthLens
 ```
 
