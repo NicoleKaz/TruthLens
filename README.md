@@ -92,4 +92,4 @@ Hadassah Academic College
 
 ## GitHub
 
-https://github.com/hodayazait/TruthLens
+https://github.com/NicoleKaz/TruthLens
